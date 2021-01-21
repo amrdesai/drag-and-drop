@@ -4,3 +4,4 @@
 
 ## About
 - Drap and drop image between the boxes
+- Uses HTML Drag and Drop API
